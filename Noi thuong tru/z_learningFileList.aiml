@@ -1,0 +1,27 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LEARN AIML</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>brain_knowledge/khai_niem_noi_tam_tru.aiml</learn>
+            <learn>brain_knowledge/thoi_han_cu_tru_doi_voi_noi_tam_tru.aiml</learn>
+            <learn>brain_knowledge/noi_dang_ky_thoi_han_cu_tru_doi_voi_noi_tam_tru.aiml</learn>
+            <learn>brain_knowledge/dieu_kien_dang_ky_doi_voi_noi_tam_tru.aiml</learn>
+            <learn>brain_knowledge/ket_qua_dang_ky_doi_voi_noi_tam_tru.aiml</learn>
+            <learn>brain_knowledge/noi_tam_tru_la_gi.aiml</learn>
+            <learn>brain_knowledge/noi_tam_tru_co_thoi_han_cu_tru_nhu_the_nao.aiml</learn>
+            <learn>brain_knowledge/noi_tam_tru_dang_ky_thoi_han_cu_tru_o_dau.aiml</learn>
+            <learn>brain_knowledge/de_dang_ky_noi_tam_tru_can_dieu_kien_gi.aiml</learn>
+            <learn>brain_knowledge/dang_ky_noi_tam_tru_co_ket_qua_nhu_the_nao.aiml</learn>
+            <learn>brain_knowledge/phai_dang_ky_tam_tru_trong_thoi_han_bao_nhieu_ngay.aiml</learn>
+            <learn>brain_knowledge/vi_sao_phai_dang_ky_tam_tru.aiml</learn>
+            <learn>brain_knowledge/thu_tuc_dang_ky_tam_tru_moi_nhat.aiml</learn>
+            <learn>brain_knowledge/neu_5_truong_hop_bi_xoa_dang_ky_tam_tru.aiml</learn>
+            <learn>brain_knowledge/khong_dang_ky_tam_tru_phat_bao_nhieu.aiml</learn>
+            <learn>brain_knowledge/tam_tru_la_gi.aiml</learn>
+            <learn>brain_knowledge/viec_dang_ky_tam_tru_se_giup_co_quan_nha_nuoc_nhu_the_nao.aiml</learn>
+            <learn>brain_knowledge/dang_ky_tam_tru_co_y_nghia_nhu_the_nao.aiml</learn>
+            <learn>brain_knowledge/dang_ky_tam_tru_khong_chi_la_nghia_vu_ma_con_la_quyen_loi_cua_ai.aiml</learn>
+        </template>
+    </category>
+</aiml>

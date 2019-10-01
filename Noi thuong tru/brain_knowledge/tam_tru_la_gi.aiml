@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TAM TRU LA GI</pattern>
+   <template>TAM TRU LA GI</template>
+</category>
+
+<category>
+   <pattern>TAM TRU LA GI</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU LA GI *</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU LA GI</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU LA GI *</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU * LA GI</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU * LA GI *</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU * LA GI</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU * LA GI *</pattern>
+   <template>
+      <srai>TAM TRU LA GI</srai>
+   </template>
+</category>
+
+</aiml>

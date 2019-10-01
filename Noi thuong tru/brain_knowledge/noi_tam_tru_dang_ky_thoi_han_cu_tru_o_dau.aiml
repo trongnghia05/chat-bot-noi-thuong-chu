@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</pattern>
+   <template>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU DANG KY THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU * DANG KY * THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU * DANG KY * THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU * DANG KY * THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU * DANG KY * THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU * DANG KY THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU * DANG KY THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU * DANG KY THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU * DANG KY THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU DANG KY * THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU DANG KY * THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOI TAM TRU DANG KY * THOI HAN CU TRU O DAU</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOI TAM TRU DANG KY * THOI HAN CU TRU O DAU *</pattern>
+   <template>
+      <srai>NOI TAM TRU DANG KY THOI HAN CU TRU O DAU</srai>
+   </template>
+</category>
+
+</aiml>
