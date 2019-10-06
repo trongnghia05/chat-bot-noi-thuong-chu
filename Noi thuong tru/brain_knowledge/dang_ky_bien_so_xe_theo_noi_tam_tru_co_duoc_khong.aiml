@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</pattern>
+   <template>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</template>
+</category>
+
+<category>
+   <pattern>DANG KY BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN SO XE NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN SO XE NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN SO XE * NOI TAM TRU</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN SO XE * NOI TAM TRU *</pattern>
+   <template>
+      <srai>DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -6,63 +6,63 @@ meta name="language" content="vi"/>
 
 
 <category>
-   <pattern>KHAI NIEM NOI TAM TRU</pattern>
-   <template>KHAI NIEM NOI TAM TRU</template>
+   <pattern>CAC KHAI NIEM NOI TAM TRU</pattern>
+   <template>CAC KHAI NIEM NOI TAM TRU</template>
 </category>
 
 <category>
    <pattern>KHAI NIEM NOI TAM TRU</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHAI NIEM NOI TAM TRU *</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHAI NIEM NOI TAM TRU</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHAI NIEM NOI TAM TRU *</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHAI NIEM * NOI TAM TRU</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHAI NIEM * NOI TAM TRU *</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHAI NIEM * NOI TAM TRU</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHAI NIEM * NOI TAM TRU *</pattern>
    <template>
-      <srai>KHAI NIEM NOI TAM TRU</srai>
+      <srai>CAC KHAI NIEM NOI TAM TRU</srai>
    </template>
 </category>
 

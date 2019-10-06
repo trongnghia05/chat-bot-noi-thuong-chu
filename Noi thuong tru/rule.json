@@ -1305,7 +1305,7 @@
     },
     {
       "id": 229,
-      "key": "KHAI NIEM NOI TAM TRU",
+      "key": "CAC KHAI NIEM NOI TAM TRU",
       "link": "",
       "question": "Khái niệm nơi tạm trú?",
       "value": "Là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú"
@@ -1410,7 +1410,7 @@
     },
     {
       "id": 244,
-      "key": "TAM TRU LA GI",
+      "key": "KEY TAM TRU LA GI",
       "link": "",
       "question": "Tạm trú là gì?",
       "value": "Nơi tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú. Có thể hiểu đây là nơi sinh sống tạm thời, có thời hạn ngoài nơi thường trú của công dân."
@@ -1435,6 +1435,517 @@
       "link": "",
       "question": "Đăng ký tạm trú không chỉ là nghĩa vụ mà còn là quyền lợi của ai?",
       "value": "Đăng ký tạm trú không chỉ là nghĩa vụ mà còn là quyền lợi của công dân để thực hiện một số thủ tục thuận tiện hơn. Điển hình như việc mua nhà, đầu tư bất động sản, đăng ký sở hữu xe máy, ô tô, đăng ký kinh doanh, cho con đi học, vay vốn, huy động vốn từ ngân hàng…"
+    },
+    {
+      "id": 248,
+      "key": "THU TUC DANG KY TAM TRU MOI NHAT CO MAY BUOC",
+      "link": "",
+      "question": "Thủ tục đăng ký tạm trú mới nhất có mấy bước?",
+      "value": "Bước 1: Chuẩn bị hồ sơ đăng ký tạm trú  Hồ sơ đăng ký tạm trú gồm:    - Bản khai nhân khẩu (mẫu HK01);    - Phiếu báo thay đổi hộ khẩu, nhân khẩu (mẫu HK02);    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu    - Giấy tờ chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ về chỗ ở).    Trường hợp thuê, mượn, ở nhờ chỗ ở hợp pháp thì khi đăng ký tạm trú phải có ý kiến đồng ý cho đăng ký tạm trú của người cho thuê, cho mượn, cho ở nhờ tại phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.    - Xuất trình chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đăng ký thường trú.    Giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú:    Theo Điều 6 Nghị định 31/2014/NĐ-CP, giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú là một trong những giấy tờ sau:    * Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp thuộc quyền sở hữu:    - Giấy chứng nhận quyền sở hữu nhà ở hoặc giấy tờ về quyền sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ;    - Giấy tờ về quyền sử dụng đất ở (đã có nhà ở trên đất đó);    - Giấy phép xây dựng (đối với trường hợp phải cấp giấy phép);    - Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước hoặc giấy tờ về hóa giá thanh lý nhà ở thuộc sở hữu nhà nước;    - Hợp đồng mua nhà ở hoặc giấy tờ chứng minh việc đã bàn giao nhà ở, đã nhận nhà ở của doanh nghiệp có chức năng kinh doanh nhà ở đầu tư xây dựng để bán;    - Giấy tờ về mua, bán, tặng, cho, đổi, nhận thừa kế nhà ở có công chứng hoặc chứng thực của UBND cấp xã;    - Giấy tờ về giao tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết, cấp nhà ở, đất ở cho cá nhân, hộ gia đình di dân theo kế hoạch của Nhà nước hoặc các đối tượng khác;    - Giấy tờ của Tòa án hoặc cơ quan hành chính nhà nước có thẩm quyền giải quyết cho được sở hữu nhà ở đã có hiệu lực pháp luật;    - Giấy tờ có xác nhận của UBND cấp xã về nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở nếu không có một trong các giấy tờ nêu trên;    - Giấy tờ chứng minh về đăng ký tàu, thuyền, phương tiện khác thuộc quyền sở hữu và địa chỉ bến gốc của phương tiện sử dụng để ở.    * Giấy tờ, tài liệu chứng minh việc cho thuê, cho mượn, cho ở nhờ chỗ ở hợp pháp:    - Văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cơ quan, tổ chức hoặc của cá nhân (trường hợp văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân phải được công chứng hoặc chứng thực của UBND cấp xã).    - Đối với nhà ở, nhà khác tại thành phố trực thuộc trung ương phải có xác nhận của UBND cấp xã về điều kiện diện tích bình quân theo quy định của HĐND thành phố trực thuộc trung ương và được người cho thuê, cho mượn, cho ở nhờ đồng ý băng văn bản;    * Văn bản cam kết của công dân về việc có chỗ ở thuộc quyền sử dụng của mình và không có tranh chấp về quyền sử dụng nếu không có một trong các giấy tờ để chứng minh về chỗ ở hợp pháp theo quy định.    Bước 2: Nộp hồ sơ đăng ký tạm trú  Công dân đến nộp hồ sơ tại Công an xã, phường, thị trấn nơi tạm trú. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:    - Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.    - Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.    - Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.    Thời hạn giải quyết:    Trong thời hạn 02 ngày làm việc kể từ ngày nộp đủ hồ sơ công dân sẽ được đăng ký tạm trú, cấp sổ tạm trú.    Lệ phí đăng ký tạm trú:    Theo quy định của Hội đồng nhân dân cấp tỉnh (điểm a khoản 2 Điều 5 Thông tư 250/2016/TT-BTC)    Bước 3: Nhận kết quả đăng ký tạm trú  - Trường hợp được giải quyết đăng ký tạm trú: Nộp lệ phí và nhận Sổ tạm trú.    Lưu ý: Kiểm tra lại các thông tin được ghi trong sổ tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả).    - Trường hợp không giải quyết đăng ký tạm trú: Nhận lại hồ sơ đã nộp; kiểm tra lại giấy tờ, tài liệu có trong hồ sơ; nhận văn bản về việc không giải quyết đăng ký tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu."
+    },
+    {
+      "id": 249,
+      "key": "CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT",
+      "link": "",
+      "question": "Có mấy bước trong thủ tục đăng ký tạm trú mới nhất",
+      "value": "Bước 1: Chuẩn bị hồ sơ đăng ký tạm trú  Hồ sơ đăng ký tạm trú gồm:    - Bản khai nhân khẩu (mẫu HK01);    - Phiếu báo thay đổi hộ khẩu, nhân khẩu (mẫu HK02);    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu    - Giấy tờ chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ về chỗ ở).    Trường hợp thuê, mượn, ở nhờ chỗ ở hợp pháp thì khi đăng ký tạm trú phải có ý kiến đồng ý cho đăng ký tạm trú của người cho thuê, cho mượn, cho ở nhờ tại phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.    - Xuất trình chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đăng ký thường trú.    Giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú:    Theo Điều 6 Nghị định 31/2014/NĐ-CP, giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú là một trong những giấy tờ sau:    * Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp thuộc quyền sở hữu:    - Giấy chứng nhận quyền sở hữu nhà ở hoặc giấy tờ về quyền sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ;    - Giấy tờ về quyền sử dụng đất ở (đã có nhà ở trên đất đó);    - Giấy phép xây dựng (đối với trường hợp phải cấp giấy phép);    - Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước hoặc giấy tờ về hóa giá thanh lý nhà ở thuộc sở hữu nhà nước;    - Hợp đồng mua nhà ở hoặc giấy tờ chứng minh việc đã bàn giao nhà ở, đã nhận nhà ở của doanh nghiệp có chức năng kinh doanh nhà ở đầu tư xây dựng để bán;    - Giấy tờ về mua, bán, tặng, cho, đổi, nhận thừa kế nhà ở có công chứng hoặc chứng thực của UBND cấp xã;    - Giấy tờ về giao tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết, cấp nhà ở, đất ở cho cá nhân, hộ gia đình di dân theo kế hoạch của Nhà nước hoặc các đối tượng khác;    - Giấy tờ của Tòa án hoặc cơ quan hành chính nhà nước có thẩm quyền giải quyết cho được sở hữu nhà ở đã có hiệu lực pháp luật;    - Giấy tờ có xác nhận của UBND cấp xã về nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở nếu không có một trong các giấy tờ nêu trên;    - Giấy tờ chứng minh về đăng ký tàu, thuyền, phương tiện khác thuộc quyền sở hữu và địa chỉ bến gốc của phương tiện sử dụng để ở.    * Giấy tờ, tài liệu chứng minh việc cho thuê, cho mượn, cho ở nhờ chỗ ở hợp pháp:    - Văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cơ quan, tổ chức hoặc của cá nhân (trường hợp văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân phải được công chứng hoặc chứng thực của UBND cấp xã).    - Đối với nhà ở, nhà khác tại thành phố trực thuộc trung ương phải có xác nhận của UBND cấp xã về điều kiện diện tích bình quân theo quy định của HĐND thành phố trực thuộc trung ương và được người cho thuê, cho mượn, cho ở nhờ đồng ý băng văn bản;    * Văn bản cam kết của công dân về việc có chỗ ở thuộc quyền sử dụng của mình và không có tranh chấp về quyền sử dụng nếu không có một trong các giấy tờ để chứng minh về chỗ ở hợp pháp theo quy định.    Bước 2: Nộp hồ sơ đăng ký tạm trú  Công dân đến nộp hồ sơ tại Công an xã, phường, thị trấn nơi tạm trú. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:    - Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.    - Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.    - Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.    Thời hạn giải quyết:    Trong thời hạn 02 ngày làm việc kể từ ngày nộp đủ hồ sơ công dân sẽ được đăng ký tạm trú, cấp sổ tạm trú.    Lệ phí đăng ký tạm trú:    Theo quy định của Hội đồng nhân dân cấp tỉnh (điểm a khoản 2 Điều 5 Thông tư 250/2016/TT-BTC)    Bước 3: Nhận kết quả đăng ký tạm trú  - Trường hợp được giải quyết đăng ký tạm trú: Nộp lệ phí và nhận Sổ tạm trú.    Lưu ý: Kiểm tra lại các thông tin được ghi trong sổ tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả).    - Trường hợp không giải quyết đăng ký tạm trú: Nhận lại hồ sơ đã nộp; kiểm tra lại giấy tờ, tài liệu có trong hồ sơ; nhận văn bản về việc không giải quyết đăng ký tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu."
+    },
+    {
+      "id": 250,
+      "key": "HO SO DANG KY TAM CHU GOM",
+      "link": "",
+      "question": "Hồ sơ đăng ký tạm trú gồm?",
+      "value": "- Bản khai nhân khẩu (mẫu HK01);    - Phiếu báo thay đổi hộ khẩu, nhân khẩu (mẫu HK02);    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu    - Giấy tờ chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý"
+    },
+    {
+      "id": 251,
+      "key": "GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU",
+      "link": "",
+      "question": "Giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú?",
+      "value": "Theo Điều 6 Nghị định 31/2014/NĐ-CP, giấy tờ chứng minh chỗ ở hợp pháp để đăng ký tạm trú là một trong những giấy tờ sau:    * Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp thuộc quyền sở hữu:    - Giấy chứng nhận quyền sở hữu nhà ở hoặc giấy tờ về quyền sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ;    - Giấy tờ về quyền sử dụng đất ở (đã có nhà ở trên đất đó);    - Giấy phép xây dựng (đối với trường hợp phải cấp giấy phép);    - Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước hoặc giấy tờ về hóa giá thanh lý nhà ở thuộc sở hữu nhà nước;    - Hợp đồng mua nhà ở hoặc giấy tờ chứng minh việc đã bàn giao nhà ở, đã nhận nhà ở của doanh nghiệp có chức năng kinh doanh nhà ở đầu tư xây dựng để bán;    - Giấy tờ về mua, bán, tặng, cho, đổi, nhận thừa kế nhà ở có công chứng hoặc chứng thực của UBND cấp xã;    - Giấy tờ về giao tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết, cấp nhà ở, đất ở cho cá nhân, hộ gia đình di dân theo kế hoạch của Nhà nước hoặc các đối tượng khác;    - Giấy tờ của Tòa án hoặc cơ quan hành chính nhà nước có thẩm quyền giải quyết cho được sở hữu nhà ở đã có hiệu lực pháp luật;    - Giấy tờ có xác nhận của UBND cấp xã về nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở nếu không có một trong các giấy tờ nêu trên;    - Giấy tờ chứng minh về đăng ký tàu, thuyền, phương tiện khác thuộc quyền sở hữu và địa chỉ bến gốc của phương tiện sử dụng để ở.    * Giấy tờ, tài liệu chứng minh việc cho thuê, cho mượn, cho ở nhờ chỗ ở hợp pháp:    - Văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cơ quan, tổ chức hoặc của cá nhân (trường hợp văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân phải được công chứng hoặc chứng thực của UBND cấp xã).    - Đối với nhà ở, nhà khác tại thành phố trực thuộc trung ương phải có xác nhận của UBND cấp xã về điều kiện diện tích bình quân theo quy định của HĐND thành phố trực thuộc trung ương và được người cho thuê, cho mượn, cho ở nhờ đồng ý băng văn bản;    * Văn bản cam kết của công dân về việc có chỗ ở thuộc quyền sử dụng của mình và không có tranh chấp về quyền sử dụng nếu không có một trong các giấy tờ để chứng minh về chỗ ở hợp pháp theo quy định."
+    },
+    {
+      "id": 252,
+      "key": "NOP HO SO DANG KY TAM TRU TAI DAU",
+      "link": "",
+      "question": "Nộp hồ sơ đăng ký tạm trú tại đâu?",
+      "value": "Công dân đến nộp hồ sơ tại Công an xã, phường, thị trấn nơi tạm trú. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:    - Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.    - Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.    - Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận."
+    },
+    {
+      "id": 253,
+      "key": "THOI HAN GIAI QUYET HO SO DANG KY TAM TRU",
+      "link": "",
+      "question": "Thời hạn giải quyết hồ sơ đăng ký tạm trú?",
+      "value": "Trong thời hạn 02 ngày làm việc kể từ ngày nộp đủ hồ sơ công dân sẽ được đăng ký tạm trú, cấp sổ tạm trú"
+    },
+    {
+      "id": 254,
+      "key": "LE PHI DANG KY TAM TRU",
+      "link": "",
+      "question": "Lệ phí đăng ký tạm trú?",
+      "value": "Theo quy định của Hội đồng nhân dân cấp tỉnh (điểm a khoản 2 Điều 5 Thông tư 250/2016/TT-BTC)https://luatvietnam.vn/thue/thong-tu-250-2016-tt-btc-bo-tai-chinh-110667-d1.html"
+    },
+    {
+      "id": 255,
+      "key": "TRUONG HOP DUOC NHAN KET QUA DANG KY TAM TRU",
+      "link": "",
+      "question": "Trường hợp được nhận kết quả đăng ký tạm trú?",
+      "value": "- Trường hợp được giải quyết đăng ký tạm trú: Nộp lệ phí và nhận Sổ tạm trú.    Lưu ý: Kiểm tra lại các thông tin được ghi trong sổ tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả)."
+    },
+    {
+      "id": 256,
+      "key": "TRUONG HOP KHONG GIAI QUYET DANG KY TAM TRU",
+      "link": "",
+      "question": "Trường hợp không giải quyết đăng ký tạm trú?",
+      "value": "Trường hợp không giải quyết đăng ký tạm trú: Nhận lại hồ sơ đã nộp; kiểm tra lại giấy tờ, tài liệu có trong hồ sơ; nhận văn bản về việc không giải quyết đăng ký tạm trú và ký nhận vào sổ theo dõi giải quyết hộ khẩu."
+    },
+    {
+      "id": 257,
+      "key": "CO MAY TRUONG HOP BI XOA DANG KY TAM TRU",
+      "link": "",
+      "question": "Có mấy trường hợp bị xóa đăng ký tạm trú?",
+      "value": "5 trường hợp bị xóa đăng ký tạm trú  Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp sau:    - Người đã đăng ký tạm trú nhưng chết, mất tích.    - Người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập tại địa phương đã đăng ký tạm trú từ 06 (sáu) tháng trở lên.    - Người đã đăng ký tạm trú nhưng hết thời hạn tạm trú từ 30 (ba mươi) ngày trở lên mà không đến cơ quan Công an nơi đăng ký tạm trú để làm thủ tục gia hạn tạm trú.    - Người đã đăng ký tạm trú mà được đăng ký thường trú.    - Người đã đăng ký tạm trú nhưng bị cơ quan có thẩm quyền quyết định hủy đăng ký tạm trú    Về nguyên tắc, mỗi người chỉ được đăng ký thường trú, đăng ký tạm trú ở một nơi.    Căn cứ: Điều 19 Thông tư 35/2014/TT-BCA"
+    },
+    {
+      "id": 258,
+      "key": "NGUOI DANG KY BI XOA TEN TRONG SO DANG KY TAM TRU TRONG CAC TRUONG HOP NAO",
+      "link": "",
+      "question": "Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp nào?",
+      "value": "Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp sau:    - Người đã đăng ký tạm trú nhưng chết, mất tích.    - Người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập tại địa phương đã đăng ký tạm trú từ 06 (sáu) tháng trở lên.    - Người đã đăng ký tạm trú nhưng hết thời hạn tạm trú từ 30 (ba mươi) ngày trở lên mà không đến cơ quan Công an nơi đăng ký tạm trú để làm thủ tục gia hạn tạm trú.    - Người đã đăng ký tạm trú mà được đăng ký thường trú.    - Người đã đăng ký tạm trú nhưng bị cơ quan có thẩm quyền quyết định hủy đăng ký tạm trú    Về nguyên tắc, mỗi người chỉ được đăng ký thường trú, đăng ký tạm trú ở một nơi.    Căn cứ: Điều 19 Thông tư 35/2014/TT-BCA"
+    },
+    {
+      "id": 259,
+      "key": "8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019",
+      "link": "",
+      "question": "8 điểm cần lưu ý khi thực hiện thủ tục đăng ký tạm trú trong năm 2019?",
+      "value": "1. Tạm trú là gì? Vì sao phải đăng ký tạm trú  2. Phải đăng ký tạm trú trong thời hạn 30 ngày  3. Khi nào công an được kiểm tra cư trú?  4. Phân biệt cư trú, thường trú, tạm trú, lưu trú  5. Thủ tục đăng ký tạm trú mới nhất  6. Khác biệt giữa sổ tạm trú KT2, KT3, KT4  7. 5 trường hợp bị xóa đăng ký tạm trú  8. Không đăng ký tạm trú phạt bao nhiêu?"
+    },
+    {
+      "id": 260,
+      "key": "DANG KY TAM TRU CHO NGUOI NUOC NGOAI THE NAO",
+      "link": "",
+      "question": "Đăng ký tạm trú cho người nước ngoài thế nào?",
+      "value": "1. Bắt buộc đăng ký tạm trú cho người nước ngoài  2. Hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng  3. Đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo"
+    },
+    {
+      "id": 261,
+      "key": "CO BAT BUOC DANG KY TAM TRU CHO NGUOI NUOC NGOAI KHONG",
+      "link": "",
+      "question": "Có bắt buộc đăng ký tạm trú cho người nước ngoài không?",
+      "value": "Người nước ngoài tạm trú tại Việt Nam phải thông qua người trực tiếp quản lý, điều hành cơ sở lưu trú để khai báo tạm trú với Công an xã, phường, thị trấn nơi cơ sở lưu trú.  Theo đó, cơ sở lưu trú là nơi tạm trú của người nước ngoài gồm: Khách sạn; nhà khách; khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập; cơ sở khám, chữa bệnh; nhà riêng.    Trong thời hạn 12 giờ kể từ khi người nước ngoài đến tạm trú, chủ cơ sở lưu trú phải hoàn thành khai báo tạm trú (đối với vùng sâu, vùng xa thời hạn là 24 giờ).    Có 2 hình thức khai báo tạm trú cho người nước ngoài:    1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử.    2. Khai báo bằng Phiếu khai báo tạm trú    Các cơ sở lưu trú khác được lựa chọn một trong hai cách thức khai báo tạm trú cho người nước ngoài nêu trên, khuyến khích thực hiện qua Trang thông tin điện tử.    Xem thêm: Thủ tục đăng ký tạm trú: 8 điểm cần lưu ý năm 2019"
+    },
+    {
+      "id": 262,
+      "key": "CO MAY HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI",
+      "link": "",
+      "question": "Có mấy hình thức khai báo tạm trú cho người nước ngoài?",
+      "value": "Có 2 hình thức khai báo tạm trú cho người nước ngoài:    1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử.    2. Khai báo bằng Phiếu khai báo tạm trú    Các cơ sở lưu trú khác được lựa chọn một trong hai cách thức khai báo tạm trú cho người nước ngoài nêu trên, khuyến khích thực hiện qua Trang thông tin điện tử."
+    },
+    {
+      "id": 263,
+      "key": "2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI",
+      "link": "",
+      "question": "2 hình thức khai báo tạm trú cho người nước ngoài là gì?",
+      "value": "1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử.    2. Khai báo bằng Phiếu khai báo tạm trú    Các cơ sở lưu trú khác được lựa chọn một trong hai cách thức khai báo tạm trú cho người nước ngoài nêu trên, khuyến khích thực hiện qua Trang thông tin điện tử."
+    },
+    {
+      "id": 264,
+      "key": "KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU",
+      "link": "",
+      "question": "Khi người nước ngoài đến tạm trú, chủ cơ sở lưu trú phải hoàn thành khai báo tạm trú trong bao lâu?",
+      "value": "Trong thời hạn 12 giờ kể từ khi người nước ngoài đến tạm trú, chủ cơ sở lưu trú phải hoàn thành khai báo tạm trú (đối với vùng sâu, vùng xa thời hạn là 24 giờ)."
+    },
+    {
+      "id": 265,
+      "key": "DANG KY BAO TAM TRU CHO NGUOI NUOC NGOAI QUA PHIEU KHAI BAO CO MAY BUOC",
+      "link": "",
+      "question": "Đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo có mấy bước?",
+      "value": "Bước 1: Người trực tiếp quản lý, điều hành cơ sở lưu trú tiếp nhận thông tin tạm trú của người nước ngoài.    Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn nơi có cơ sở lưu trú. Tải về Phiếu khai báo tạm trú cho người nước ngoài mẫu NA17 Thông tư 04/2015/TT-BCA tại đây.    Bước 3: Người khai báo tạm trú nhận lại ngay Phiếu khai báo tạm trú đã có xác nhận của trực ban Công an cấp xã."
+    },
+    {
+      "id": 266,
+      "key": "CO MAY BUOC DANG KY BAO TAM TRU CHO NGUOI NUOC NGOAI QUA PHIEU KHAI BAO",
+      "link": "",
+      "question": "Đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo có mấy bước?",
+      "value": "Bước 1: Người trực tiếp quản lý, điều hành cơ sở lưu trú tiếp nhận thông tin tạm trú của người nước ngoài.    Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn nơi có cơ sở lưu trú. Tải về Phiếu khai báo tạm trú cho người nước ngoài mẫu NA17 Thông tư 04/2015/TT-BCA tại đây.    Bước 3: Người khai báo tạm trú nhận lại ngay Phiếu khai báo tạm trú đã có xác nhận của trực ban Công an cấp xã."
+    },
+    {
+      "id": 267,
+      "key": "HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG OHAI THUC HIEN MAY BUOC",
+      "link": "",
+      "question": "Hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng phải thực hiện mấy bước?",
+      "value": "Bước 1: Truy cập vào website của Phòng Quản lý xuất nhập cảnh công an tỉnh nơi đặt cơ sở lưu trú: https://tentinh.xuatnhapcanh.gov.vn    Trong đó \"tentinh\" là tên của tỉnh, thành phố nơi đặt cơ sở lưu trú như: hanoi, hochiminh, danang, hungyen, namdinh, haiduong...    Bước 2: Sau khi vào địa chỉ trên, có thể bấm vào tải xuống để xem hướng dẫn cụ thể hoặc bấm vào đăng ký để tiến hành tạo tài khoản khao báo tạm trú cho người nước ngoài ngay lập tức.  Bước 3: Phần Thông tin cơ sở lưu trú (Nơi có người nước ngoài lưu trú)    Tại mục Loại sơ sở lưu trú có chia làm 5:    - Chung cư, cơ sở y tế, ký túc xá;    - Khu công nghiệp, chế xuất;    - Khách sạn, nhà trọ;    - Nhà dân kinh doanh (Hộ kinh doanh);    - Nhà dân không kinh doanh.    Tùy thuộc vào loại hình của cơ sở lưu trú để chọn chính xác.  Bước 4: Phần Thông tin người đăng kí tài khoản sẽ sử dụng tài khoản này để quản lý cũng như khai báo tạm trú cho người nước ngoài đến Việt Nam.  Bước 5: Hệ thống sẽ tự động chuyển bạn qua trang đăng nhập, điền tài khoản vừa đăng ký vào để vào đăng nhập.    Bước 6: Thực hiện nhập và kiểm tra các thông tin khai báo về người nước ngoài tại phần Quản lý khách    Bước 7: Có 2 cách thêm là thêm mới và Import dữ liệu. Chọn thêm mới để thực hiện khai báo tạm trú cho người nước ngoài đơn giản hơn so với tải tệp tin từ máy tính lên.    Bước 8: Điền đầy đủ các thông tin theo mẫu. Để kiểm tra xem thông tin có chính xác về khách hay không bạn hãy nhớ ân vào tìm theo số hộ chiếu và quốc tịch.    Bước 9: Ấn nút “Lưu thông tin” và kiểm tra thông tin hệ thống.    Nếu hệ thống xác nhận đã tiếp nhận thì hoàn thành; hệ thống chưa tiếp nhận thì thực hiện khai báo lại.    Ra ngoài phần Quản lý khách sẽ thấy tại danh sách có 01 khách đã đăng ký tạm trú.    Bước 10: Có thể xóa, sửa hay gia hạn hoặc trả phòng tùy vào tình trạng hiện tại của khách."
+    },
+    {
+      "id": 268,
+      "key": "BUOC 10 TRONG HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI",
+      "link": "",
+      "question": "Bước 10 trong hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng là gì ?",
+      "value": "Bước 10: Có thể xóa, sửa hay gia hạn hoặc trả phòng tùy vào tình trạng hiện tại của khách."
+    },
+    {
+      "id": 269,
+      "key": "BUOC 1 TRONG HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI",
+      "link": "",
+      "question": "Bước 1 trong hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng là gì ?",
+      "value": "Bước 1: Truy cập vào website của Phòng Quản lý xuất nhập cảnh công an tỉnh nơi đặt cơ sở lưu trú: https://tentinh.xuatnhapcanh.gov.vn    Trong đó \"tentinh\" là tên của tỉnh, thành phố nơi đặt cơ sở lưu trú như: hanoi, hochiminh, danang, hungyen, namdinh, haiduong..."
+    },
+    {
+      "id": 270,
+      "key": "BUOC 2 TRONG HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI LA GI",
+      "link": "",
+      "question": "Bước 2 trong hướng dẫn đăng ký tạm trú cho người nước ngoài là gì?",
+      "value": "Bước 2: Sau khi vào địa chỉ trên, có thể bấm vào tải xuống để xem hướng dẫn cụ thể hoặc bấm vào đăng ký để tiến hành tạo tài khoản khao báo tạm trú cho người nước ngoài ngay lập tức."
+    },
+    {
+      "id": 271,
+      "key": "BUOC 4 TRONG HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI",
+      "link": "",
+      "question": "Bước 4 trong hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng là gì?",
+      "value": "Bước 4: Phần Thông tin người đăng kí tài khoản sẽ sử dụng tài khoản này để quản lý cũng như khai báo tạm trú cho người nước ngoài đến Việt Nam."
+    },
+    {
+      "id": 272,
+      "key": "BUOC 5 TRONG HUONG DAN DANG KY TAM TRU CHO NGUOI NUOC NGOAI",
+      "link": "",
+      "question": "Bước 5 trong hướng dẫn đăng ký tạm trú cho người nước ngoài là gì?",
+      "value": "Bước 5: Hệ thống sẽ tự động chuyển bạn qua trang đăng nhập, điền tài khoản vừa đăng ký vào để vào đăng nhập."
+    },
+    {
+      "id": 273,
+      "key": "BUOC 6 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI LA GI",
+      "link": "",
+      "question": "Bước 6 trong đăng ký tạm trú cho người nước ngoài là gì?",
+      "value": "Bước 6: Thực hiện nhập và kiểm tra các thông tin khai báo về người nước ngoài tại phần Quản lý khách"
+    },
+    {
+      "id": 274,
+      "key": "BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI",
+      "link": "",
+      "question": "Bước 7 trong hướng dẫn đăng ký tạm trú cho người nước ngoài qua mạng là gì?",
+      "value": "Bước 7: Có 2 cách thêm là thêm mới và Import dữ liệu. Chọn thêm mới để thực hiện khai báo tạm trú cho người nước ngoài đơn giản hơn so với tải tệp tin từ máy tính lên."
+    },
+    {
+      "id": 275,
+      "key": "BUOC 8 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI LA GI",
+      "link": "",
+      "question": "Bước 8 trong hướng dẫn đăng ký tạm trú cho người nước ngoài là gì?",
+      "value": "Bước 8: Điền đầy đủ các thông tin theo mẫu. Để kiểm tra xem thông tin có chính xác về khách hay không bạn hãy nhớ ân vào tìm theo số hộ chiếu và quốc tịch."
+    },
+    {
+      "id": 276,
+      "key": "BUOC 9 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI LA GI",
+      "link": "",
+      "question": "Bước 9 trong hướng dẫn đăng ký tạm trú cho người nước ngoài là gì?",
+      "value": "Bước 9: Ấn nút “Lưu thông tin” và kiểm tra thông tin hệ thống.    Nếu hệ thống xác nhận đã tiếp nhận thì hoàn thành; hệ thống chưa tiếp nhận thì thực hiện khai báo lại.    Ra ngoài phần Quản lý khách sẽ thấy tại danh sách có 01 khách đã đăng ký tạm trú."
+    },
+    {
+      "id": 277,
+      "key": "NHUNG NGUOI NUOC NGOAI CO THE KHAI BAO TAM TRU QUA MAY HINH THUC",
+      "link": "",
+      "question": "Người nước ngoài có thể khai báo tạm trú qua mấy hình thức?",
+      "value": "1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử.    2. Khai báo bằng Phiếu khai báo tạm trú    Các cơ sở lưu trú khác được lựa chọn một trong hai cách thức khai báo tạm trú cho người nước ngoài nêu trên, khuyến khích thực hiện qua Trang thông tin điện tử."
+    },
+    {
+      "id": 278,
+      "key": "NHUNG NGUOI NUOC NGOAI CO BAT BUOC DANG KY TAM TRU KHONG",
+      "link": "",
+      "question": "Người nước ngoài có bắt buộc đăng ký tạm trú không ?",
+      "value": "Bắt buộc đăng ký tạm trú cho người nước ngoài  Người nước ngoài tạm trú tại Việt Nam phải thông qua người trực tiếp quản lý, điều hành cơ sở lưu trú để khai báo tạm trú với Công an xã, phường, thị trấn nơi cơ sở lưu trú.  Theo đó, cơ sở lưu trú là nơi tạm trú của người nước ngoài gồm: Khách sạn; nhà khách; khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập; cơ sở khám, chữa bệnh; nhà riêng.    Trong thời hạn 12 giờ kể từ khi người nước ngoài đến tạm trú, chủ cơ sở lưu trú phải hoàn thành khai báo tạm trú (đối với vùng sâu, vùng xa thời hạn là 24 giờ).    Có 2 hình thức khai báo tạm trú cho người nước ngoài:    1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử."
+    },
+    {
+      "id": 279,
+      "key": "NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO",
+      "link": "",
+      "question": "Người nước ngoài đăng ký tạm trú qua mạng như thế nào?",
+      "value": "Bước 1: Truy cập vào website của Phòng Quản lý xuất nhập cảnh công an tỉnh nơi đặt cơ sở lưu trú: https://tentinh.xuatnhapcanh.gov.vn    Trong đó \"tentinh\" là tên của tỉnh, thành phố nơi đặt cơ sở lưu trú như: hanoi, hochiminh, danang, hungyen, namdinh, haiduong...    Bước 2: Sau khi vào địa chỉ trên, có thể bấm vào tải xuống để xem hướng dẫn cụ thể hoặc bấm vào đăng ký để tiến hành tạo tài khoản khao báo tạm trú cho người nước ngoài ngay lập tức.  Bước 3: Phần Thông tin cơ sở lưu trú (Nơi có người nước ngoài lưu trú)    Tại mục Loại sơ sở lưu trú có chia làm 5:    - Chung cư, cơ sở y tế, ký túc xá;    - Khu công nghiệp, chế xuất;    - Khách sạn, nhà trọ;    - Nhà dân kinh doanh (Hộ kinh doanh);    - Nhà dân không kinh doanh.    Tùy thuộc vào loại hình của cơ sở lưu trú để chọn chính xác.  Bước 4: Phần Thông tin người đăng kí tài khoản sẽ sử dụng tài khoản này để quản lý cũng như khai báo tạm trú cho người nước ngoài đến Việt Nam.  Bước 5: Hệ thống sẽ tự động chuyển bạn qua trang đăng nhập, điền tài khoản vừa đăng ký vào để vào đăng nhập.    Bước 6: Thực hiện nhập và kiểm tra các thông tin khai báo về người nước ngoài tại phần Quản lý khách    Bước 7: Có 2 cách thêm là thêm mới và Import dữ liệu. Chọn thêm mới để thực hiện khai báo tạm trú cho người nước ngoài đơn giản hơn so với tải tệp tin từ máy tính lên.    Bước 8: Điền đầy đủ các thông tin theo mẫu. Để kiểm tra xem thông tin có chính xác về khách hay không bạn hãy nhớ ân vào tìm theo số hộ chiếu và quốc tịch.    Bước 9: Ấn nút “Lưu thông tin” và kiểm tra thông tin hệ thống.    Nếu hệ thống xác nhận đã tiếp nhận thì hoàn thành; hệ thống chưa tiếp nhận thì thực hiện khai báo lại.    Ra ngoài phần Quản lý khách sẽ thấy tại danh sách có 01 khách đã đăng ký tạm trú.    Bước 10: Có thể xóa, sửa hay gia hạn hoặc trả phòng tùy vào tình trạng hiện tại của khách"
+    },
+    {
+      "id": 280,
+      "key": "NGUOI NUOC NGOAI DANG KY TAM TRU QUA PHIEU KHAI BAO QUA MAY BUOC",
+      "link": "",
+      "question": "Người nước ngoài đăng ký tạm trú qua phiếu khai báo qua mấy bước?",
+      "value": "Bước 1: Người trực tiếp quản lý, điều hành cơ sở lưu trú tiếp nhận thông tin tạm trú của người nước ngoài.    Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn nơi có cơ sở lưu trú. Tải về Phiếu khai báo tạm trú cho người nước ngoài mẫu NA17 Thông tư 04/2015/TT-BCA tại đây.    Bước 3: Người khai báo tạm trú nhận lại ngay Phiếu khai báo tạm trú đã có xác nhận của trực ban Công an cấp xã."
+    },
+    {
+      "id": 281,
+      "key": "CO MAY BUOC DE NGUOI NUOC NGOAI DANG KY TAM TRU QUA PHIEU KHAI BAO",
+      "link": "",
+      "question": "Có mấy bước để người nước ngoài đăng ký tạm trú qua phiếu khai báo?",
+      "value": "Bước 1: Người trực tiếp quản lý, điều hành cơ sở lưu trú tiếp nhận thông tin tạm trú của người nước ngoài.    Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn nơi có cơ sở lưu trú. Tải về Phiếu khai báo tạm trú cho người nước ngoài mẫu NA17 Thông tư 04/2015/TT-BCA tại đây.    Bước 3: Người khai báo tạm trú nhận lại ngay Phiếu khai báo tạm trú đã có xác nhận của trực ban Công an cấp xã."
+    },
+    {
+      "id": 282,
+      "key": "NHUNG NGUOI NUOC NGOAI KHONG PHAI DANG KY TAM TRU CO DUNG KHONG",
+      "link": "",
+      "question": "Người nước ngoài không phải đăng ký tạm trú có đúng không?",
+      "value": "Bắt buộc đăng ký tạm trú cho người nước ngoài  Người nước ngoài tạm trú tại Việt Nam phải thông qua người trực tiếp quản lý, điều hành cơ sở lưu trú để khai báo tạm trú với Công an xã, phường, thị trấn nơi cơ sở lưu trú.  Theo đó, cơ sở lưu trú là nơi tạm trú của người nước ngoài gồm: Khách sạn; nhà khách; khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập; cơ sở khám, chữa bệnh; nhà riêng.    Trong thời hạn 12 giờ kể từ khi người nước ngoài đến tạm trú, chủ cơ sở lưu trú phải hoàn thành khai báo tạm trú (đối với vùng sâu, vùng xa thời hạn là 24 giờ).    Có 2 hình thức khai báo tạm trú cho người nước ngoài:    1. Khai báo qua mạng tại Trang thông tin điện tử    Các khách sạn thực hiện việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử.    2. Khai báo bằng Phiếu khai báo tạm trú    Các cơ sở lưu trú khác được lựa chọn một trong hai cách thức khai báo tạm trú cho người nước ngoài nêu trên, khuyến khích thực hiện qua Trang thông tin điện tử."
+    },
+    {
+      "id": 283,
+      "key": "DANG KY TAM TRU CHO NHUNG NGUOI NUOC NGOAI QUA MANG NHU THE NAO",
+      "link": "",
+      "question": "Đăng ký tạm trú cho người nước ngoài qua mạng như thế nào?",
+      "value": "Bước 1: Truy cập vào website của Phòng Quản lý xuất nhập cảnh công an tỉnh nơi đặt cơ sở lưu trú: https://tentinh.xuatnhapcanh.gov.vn    Trong đó \"tentinh\" là tên của tỉnh, thành phố nơi đặt cơ sở lưu trú như: hanoi, hochiminh, danang, hungyen, namdinh, haiduong...    Bước 2: Sau khi vào địa chỉ trên, có thể bấm vào tải xuống để xem hướng dẫn cụ thể hoặc bấm vào đăng ký để tiến hành tạo tài khoản khao báo tạm trú cho người nước ngoài ngay lập tức.    Bước 3: Phần Thông tin cơ sở lưu trú (Nơi có người nước ngoài lưu trú)    Tại mục Loại sơ sở lưu trú có chia làm 5:    - Chung cư, cơ sở y tế, ký túc xá;    - Khu công nghiệp, chế xuất;    - Khách sạn, nhà trọ;    - Nhà dân kinh doanh (Hộ kinh doanh);    - Nhà dân không kinh doanh.    Tùy thuộc vào loại hình của cơ sở lưu trú để chọn chính xác.  Bước 4: Phần Thông tin người đăng kí tài khoản sẽ sử dụng tài khoản này để quản lý cũng như khai báo tạm trú cho người nước ngoài đến Việt Nam.    Lưu ý: Dấu * là phần thông tin bắt buộc điền. Việc đăng ký tài khoản chỉ cần thực hiện duy nhất lần đầu.    Bước 5: Hệ thống sẽ tự động chuyển bạn qua trang đăng nhập, điền tài khoản vừa đăng ký vào để vào đăng nhập.    Bước 6: Thực hiện nhập và kiểm tra các thông tin khai báo về người nước ngoài tại phần Quản lý khách    Bước 7: Có 2 cách thêm là thêm mới và Import dữ liệu. Chọn thêm mới để thực hiện khai báo tạm trú cho người nước ngoài đơn giản hơn so với tải tệp tin từ máy tính lên.    Bước 8: Điền đầy đủ các thông tin theo mẫu. Để kiểm tra xem thông tin có chính xác về khách hay không bạn hãy nhớ ân vào tìm theo số hộ chiếu và quốc tịch.    Bước 9: Ấn nút “Lưu thông tin” và kiểm tra thông tin hệ thống.    Nếu hệ thống xác nhận đã tiếp nhận thì hoàn thành; hệ thống chưa tiếp nhận thì thực hiện khai báo lại."
+    },
+    {
+      "id": 284,
+      "key": "THU TUC DANG KY TAM TRU THEO QUY DINH CUA PHAP LUAT CU TRU NHU THE NAO",
+      "link": "",
+      "question": "Thủ tục đăng ký tạm trú theo quy định của pháp luật cư trú như thế nào?",
+      "value": "Điều 30. Đăng ký tạm trú    1. Đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp sổ tạm trú cho họ.    2. Người đang sinh sống, làm việc, lao động, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn ba mươi ngày, kể từ ngày đến phải đăng ký tạm trú tại Công an xã, phường, thị trấn.    3. Người đến đăng ký tạm trú phải xuất trình giấy chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú; giấy tờ chứng minh quyền sở hữu hoặc sử dụng nhà ở đó; nộp phiếu báo thay đổi hộ khẩu, nhân khẩu, bản khai nhân khẩu; trường hợp chỗ ở hợp pháp là nhà do thuê, mượn hoặc ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.    4. Trưởng Công an xã, phường, thị trấn trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định tại khoản 3 Điều này phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.    Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú, có giá trị xác định nơi tạm trú của công dân và không xác định thời hạn.    Việc điều chỉnh thay đổi về sổ tạm trú được thực hiện theo quy định tại Điều 29 của Luật này. Sổ tạm trú bị hư hỏng thì được đổi, bị mất thì được cấp lại. Trường hợp đến tạm trú tại xã, phường, thị trấn khác thì phải đăng ký lại.    5. Trường hợp người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập từ sáu tháng trở lên tại địa phương đã đăng ký tạm trú thì cơ quan đã cấp sổ tạm trú phải xoá tên người đó trong sổ đăng ký tạm trú.\"    Ngoài ra, việc đi đăng ký tạm trú không yêu cầu buộc người đi đăng ký phải có mặt, tuy nhiên phải xuất trình đẩy đủ giấy tờ theo quy định của pháp luật về cư trú.    “4. Trưởng Công an xã, phường, thị trấn trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định tại khoản 3 Điều này phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.    Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là hai mươi bốn tháng. Trong thời hạn ba mươi ngày trước ngày hết thời hạn tạm trú, công dân đến cơ quan Công an nơi cấp sổ tạm trú để làm thủ tục gia hạn.    Việc điều chỉnh thay đổi về sổ tạm trú được thực hiện theo quy định tại Điều 29 của Luật này. Sổ tạm trú bị hư hỏng thì được đổi, bị mất thì được cấp lại. Trường hợp đến tạm trú tại xã, phường, thị trấn khác thì phải đăng ký lại.”    Thủ tục khi đi đăng ký tạm trú cần mang theo:    +Xuất trình giấy chứng minh nhân dân;    + Giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú;    +Giấy tờ chứng minh quyền sở hữu hoặc sử dụng nhà ở đó;    + Nộp phiếu báo thay đổi hộ khẩu, nhân khẩu, bản khai nhân khẩu; trường hợp chỗ ở hợp pháp là nhà do thuê, mượn hoặc ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản."
+    },
+    {
+      "id": 285,
+      "key": "KHI DANG KY TAM TRU CAN MANG THEO GIAY TO GI DE LAM THU TUC",
+      "link": "",
+      "question": "Khi đi đăng ký tạm trú cần mang theo giấy tờ gì để làm thủ tục?",
+      "value": "Thủ tục khi đi đăng ký tạm trú cần mang theo:    +Xuất trình giấy chứng minh nhân dân;    + Giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú;    +Giấy tờ chứng minh quyền sở hữu hoặc sử dụng nhà ở đó;    + Nộp phiếu báo thay đổi hộ khẩu, nhân khẩu, bản khai nhân khẩu; trường hợp chỗ ở hợp pháp là nhà do thuê, mượn hoặc ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản."
+    },
+    {
+      "id": 286,
+      "key": "KHI DANG KY TAM TRU CAN PHAI MANG THEO HO SO GI",
+      "link": "",
+      "question": "Khi đi đăng ký tạm trú cần phải mang theo hồ sơ gì?",
+      "value": "- Phiếu báo thay đổi hộ khẩu, nhân khẩu;    - Bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định số 31/2014/NĐ-CP (trừ trường hợp được chủ hộ có sổ"
+    },
+    {
+      "id": 287,
+      "key": "CAP SP TAM TRU TRONG THOI HAN BAO LAU",
+      "link": "",
+      "question": "Cấp sổ tạm trú trong thời hạn bao lâu?",
+      "value": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định Trưởng Công an xã, phường, thị trấn sẽ cấp sổ tạm trú theo mẫu quy định của Bộ Công an.    Sổ tạm trú có thời hạn tối đa là 24 tháng. Đây là nội dung liên quan với đến việc đăng ký thường trú nêu trên. Sổ tạm trú chỉ có thời hạn 24 tháng nên mọi người cần chú ý thực hiện việc gia hạn khi sắp hết thời hạn tạm trú    Trong thời hạn 30 ngày trước ngày hết thời hạn tạm trú, công dân đến cơ quan Công an nơi cấp sổ tạm trú để làm thủ tục gia hạn."
+    },
+    {
+      "id": 288,
+      "key": "BUOC 1 DE DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA PHIEU KHAI BAO",
+      "link": "",
+      "question": "Bước 1 để đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo ?",
+      "value": "Bước 1: Người trực tiếp quản lý, điều hành cơ sở lưu trú tiếp nhận thông tin tạm trú của người nước ngoài."
+    },
+    {
+      "id": 289,
+      "key": "BUOC 2 DE DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA PHIEU KHAI BAO",
+      "link": "",
+      "question": "Bước 2 trong đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo?",
+      "value": "Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn nơi có cơ sở lưu trú. Tải về Phiếu khai báo tạm trú cho người nước ngoài mẫu NA17 Thông tư 04/2015/TT-BCA tại đây."
+    },
+    {
+      "id": 290,
+      "key": "BUOC 3 DE DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA PHIEU KHAI BAO",
+      "link": "",
+      "question": "Bước 3 trong đăng ký báo tạm trú cho người nước ngoài qua Phiếu khai báo?",
+      "value": "Bước 3: Người khai báo tạm trú nhận lại ngay Phiếu khai báo tạm trú đã có xác nhận của trực ban Công an cấp xã."
+    },
+    {
+      "id": 291,
+      "key": "PHAI DANG KY TAM TRU KHI NAO",
+      "link": "",
+      "question": "Phải đăng ký tạm trú khi nào?",
+      "value": "Theo Luật Cư trú mới nhất, đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan Nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp Sổ tạm trú.    Trong vòng 30 ngày, kể từ ngày đến sinh sống, làm việc, lao động, học tập tại một địa bàn xã, phường, thị trấn nào đó thì công dân phải làm thủ tục đăng ký tạm trú tại Công an xã, phường, thị trấn đó.    Xem thêm: Thủ tục đăng ký tạm trú: 8 điểm cần lưu ý năm 2019"
+    },
+    {
+      "id": 292,
+      "key": "THEO LUAT MOI NHAT DANG KY TAM TRU LA",
+      "link": "",
+      "question": "Theo Luật Cư trú mới nhất, đăng ký tạm trú là ?",
+      "value": "Theo Luật Cư trú mới nhất, đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan Nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp Sổ tạm trú."
+    },
+    {
+      "id": 293,
+      "key": "CONG DAN PHAI LAM THU TUC DANG KY TAM TRU TAI",
+      "link": "",
+      "question": "Công dân phải làm thủ tục đăng ký tạm trú tại?",
+      "value": "Trong vòng 30 ngày, kể từ ngày đến sinh sống, làm việc, lao động, học tập tại một địa bàn xã, phường, thị trấn nào đó thì công dân phải làm thủ tục đăng ký tạm trú tại Công an xã, phường, thị trấn đó."
+    },
+    {
+      "id": 294,
+      "key": "KHI NAO PHAI DANG KY TAM TRU",
+      "link": "",
+      "question": "Khi nào phải đăng ký tạm trú?",
+      "value": "Theo Luật Cư trú mới nhất, đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan Nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp Sổ tạm trú.    Trong vòng 30 ngày, kể từ ngày đến sinh sống, làm việc, lao động, học tập tại một địa bàn xã, phường, thị trấn nào đó thì công dân phải làm thủ tục đăng ký tạm trú tại Công an xã, phường, thị trấn đó.    Xem thêm: Thủ tục đăng ký tạm trú: 8 điểm cần lưu ý năm 2019"
+    },
+    {
+      "id": 295,
+      "key": "PHAI DANG KY TAM TRU VI SAO",
+      "link": "",
+      "question": "Phải đăng ký tạm trú vì sao?",
+      "value": "Về phía cơ quan Nhà nước, việc đăng ký tạm trú giúp Nhà nước quản lý công dân, góp phần đảm bảo an ninh trật tự.    Với người ngoại tỉnh, việc đăng ký tạm trú là nghĩa vụ cần thiết để đảm bảo công dân được hưởng một số quyền lợi nhất định như: Cho con đi học tại các trường mầm non, tiểu học, phổ thông công lập; Làm thủ tục vay vốn ngân hàng hoặc vay tiêu dùng tại các công ty tài chính; Làm thủ tục mua hàng trả góp… tại địa bàn tạm trú.     Ngoài ra, nếu như không đăng ký tạm trú, người dân ngoại tỉnh còn có thể bị xử phạt hành chính từ 100.000 đồng – 300.000 đồng (theo điểm a, khoản 1, Điều 8 Nghị định 167/2013/NĐ-CP)."
+    },
+    {
+      "id": 296,
+      "key": "THU DANG KY TAM TRU MOI NHAT NHU NAO",
+      "link": "",
+      "question": "Thủ tục đăng ký tạm trú mới nhất như thế nào?",
+      "value": "Căn cứ Điều 16 Thông tư 35/2014/TT-BCA, thủ tục đăng ký tạm trú hiện nay như sau:    Hồ sơ cần chuẩn bị:  - Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu (với trường hợp phải khai nhân khẩu);    Xem thêm: Bản khai nhân khẩu (mẫu HK01): Hướng dẫn chi tiết cách ghi  - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp. Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhà thì phải được người cho thuê, cho mượn, cho ở nhờ có ý kiến đồng ý bằng văn bản về việc cho đăng ký tạm trú vào chỗ ở của mình.    - Giấy chứng minh nhân dân hoặc giấy tờ xác nhận của Công an xã, phường, thị trấn nơi thường trú.    Nơi nộp hồ sơ:  Người làm thủ tục đăng ký tạm trú nộp hồ sơ tại công an xã, phường, thị trấn nơi tạm trú.    Thời hạn cấp Sổ tạm trú:  Theo quy định của Luật Cư trú sửa đổi 2013, trong thời hạn 03 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Trưởng công an xã, phường, thị trấn phải cấp Sổ tạm trú cho công dân.    Sổ tạm trú có thời hạn tối đa là 24 tháng. Trong 30 ngày, trước ngày hết hạn, công dân phải đến Công an xã, phường, thị trấn để làm thủ tục gia hạn Sổ tạm trú.    Lệ phí đăng ký tạm trú:  Hiện nay, Bộ Tài chính quy định Hội đồng nhân dân các tỉnh, thành phố trực thuộc trung ương được tự quyết định mức lệ phí đăng ký tạm trú.    Tại Hà Nội, căn cứ Nghị quyết 20/2016/NQ-HĐND của Hội đồng nhân dân Thành phố, mức lệ phí đăng ký tạm trú nhưng không cấp Sổ tạm trú là 15.000 đồng/trường hợp đăng ký ở các quận; nếu cấp Sổ tạm trú, mức lệ phí là 20.000 đồng/trường hợp.    Riêng các huyện, thị xã, mức lệ phí chỉ bằng một nửa lệ phí tại các quận.    Trên đây là hướng dẫn về thủ tục đăng ký tạm trú mới nhất cho người ngoại tỉnh. Quý khách hàng của LuatVietnam có thể tìm hiểu thêm thông tin về vấn đề Không đăng ký tạm trú, chủ trọ hay người thuê trọ bị phạt tại đây.    Xem thêm:"
+    },
+    {
+      "id": 297,
+      "key": "THOI HAN CAP SO TAM TRU LA BAO LAU",
+      "link": "",
+      "question": "Thời hạn cấp Sổ tạm trú là bao lâu?",
+      "value": "Theo quy định của Luật Cư trú sửa đổi 2013, trong thời hạn 03 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Trưởng công an xã, phường, thị trấn phải cấp Sổ tạm trú cho công dân.    Sổ tạm trú có thời hạn tối đa là 24 tháng. Trong 30 ngày, trước ngày hết hạn, công dân phải đến Công an xã, phường, thị trấn để làm thủ tục gia hạn Sổ tạm trú."
+    },
+    {
+      "id": 298,
+      "key": "SO TAM TRU CO THOI HAN CAP LA BAO LAU",
+      "link": "",
+      "question": "Sổ tạm trú có thời hạn cấp là bao lâu?",
+      "value": "Theo quy định của Luật Cư trú sửa đổi 2013, trong thời hạn 03 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Trưởng công an xã, phường, thị trấn phải cấp Sổ tạm trú cho công dân.    Sổ tạm trú có thời hạn tối đa là 24 tháng. Trong 30 ngày, trước ngày hết hạn, công dân phải đến Công an xã, phường, thị trấn để làm thủ tục gia hạn Sổ tạm trú."
+    },
+    {
+      "id": 299,
+      "key": "KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT",
+      "link": "",
+      "question": "Không đăng ký tạm trú, chủ trọ hay người thuê trọ bị phạt?",
+      "value": "Theo điểm a, khoản 1, Điều 8 Nghị định 167/2013/NĐ-CP, cá nhân, chủ hộ gia đình không thực hiện đúng quy định về đăng ký tạm trú sẽ bị phạt tiền từ 100.000 đồng đến 300.000 đồng.    Đồng thời, tại khoản 4, Điều 23 Luật Xử lý vi phạm hành chính 2012, mức tiền phạt cụ thể đối với một hành vi vi phạm hành chính là mức trung bình của khung tiền phạt được quy định đối với hành vi đó.    Nếu có tình tiết giảm nhẹ thì mức tiền phạt có thể giảm xuống nhưng không được giảm quá mức tối thiểu của khung tiền phạt; nếu có tình tiết tăng nặng thì mức tiền phạt có thể tăng lên nhưng không được vượt quá mức tiền phạt tối đa của khung tiền phạt.    Theo đó, cả chủ trọ và người thuê trọ đều bị xử phạt nếu không thực hiện đúng quy định về đăng ký tạm trú.     Riêng người cho thuê trọ sẽ bị phạt tiền từ 1 triệu đồng đến 2 triệu đồng theo quy định tại điểm đ, khoản 2, Điều 8 Nghị định 167/2013/NĐ-CP.    Theo Điều 30 Luật Cư trú 2006 sửa đổi, bổ sung 2013, người đang sinh sống, làm việc, lao động, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn 30 ngày kể từ ngày đến, phải đăng ký tạm trú tại công an xã, phường, thị trấn.    Như vậy, người thuê trọ phải có nghĩa vụ đăng ký tạm trú theo quy định của pháp luật chứ không nhất thiết phải là chủ nhà.    Tuy nhiên, thông thường là chủ trọ đi làm thủ tục đăng ký tạm trú cho người thuê trọ. Hồ sơ đăng ký tạm trú gồm có :    - Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ, tài liệu chứng minh chỗ ở hợp pháp).    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên.    - Xuất trình CMND hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó thường trú."
+    },
+    {
+      "id": 300,
+      "key": "CHU TRO HAY NGUOI THUE TRO BI PHAT KHI KHONG DANG KY TAM TRU",
+      "link": "",
+      "question": "Chủ trọ hay người thuê trọ bị phạt khi không đăng ký tạm trú?",
+      "value": "Theo điểm a, khoản 1, Điều 8 Nghị định 167/2013/NĐ-CP, cá nhân, chủ hộ gia đình không thực hiện đúng quy định về đăng ký tạm trú sẽ bị phạt tiền từ 100.000 đồng đến 300.000 đồng.    Đồng thời, tại khoản 4, Điều 23 Luật Xử lý vi phạm hành chính 2012, mức tiền phạt cụ thể đối với một hành vi vi phạm hành chính là mức trung bình của khung tiền phạt được quy định đối với hành vi đó.    Nếu có tình tiết giảm nhẹ thì mức tiền phạt có thể giảm xuống nhưng không được giảm quá mức tối thiểu của khung tiền phạt; nếu có tình tiết tăng nặng thì mức tiền phạt có thể tăng lên nhưng không được vượt quá mức tiền phạt tối đa của khung tiền phạt.    Theo đó, cả chủ trọ và người thuê trọ đều bị xử phạt nếu không thực hiện đúng quy định về đăng ký tạm trú.     Riêng người cho thuê trọ sẽ bị phạt tiền từ 1 triệu đồng đến 2 triệu đồng theo quy định tại điểm đ, khoản 2, Điều 8 Nghị định 167/2013/NĐ-CP."
+    },
+    {
+      "id": 301,
+      "key": "THU TUC DANG KY TAM TRU CHO NGUOI THUE TRO",
+      "link": "",
+      "question": "Thủ tục đăng ký tạm trú cho người thuê trọ?",
+      "value": "Theo Điều 30 Luật Cư trú 2006 sửa đổi, bổ sung 2013, người đang sinh sống, làm việc, lao động, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn 30 ngày kể từ ngày đến, phải đăng ký tạm trú tại công an xã, phường, thị trấn.    Như vậy, người thuê trọ phải có nghĩa vụ đăng ký tạm trú theo quy định của pháp luật chứ không nhất thiết phải là chủ nhà.    Tuy nhiên, thông thường là chủ trọ đi làm thủ tục đăng ký tạm trú cho người thuê trọ. Hồ sơ đăng ký tạm trú gồm có :    - Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ, tài liệu chứng minh chỗ ở hợp pháp).    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên.    - Xuất trình CMND hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó thường trú."
+    },
+    {
+      "id": 302,
+      "key": "NGUOI THUE TRO DANG KY TAM TRU CAN THU TUC GI",
+      "link": "",
+      "question": "Người thuê trọ phải có nghĩa vụ đăng ký tạm trú không?",
+      "value": "Người thuê trọ phải có nghĩa vụ đăng ký tạm trú theo quy định của pháp luật chứ không nhất thiết phải là chủ nhà."
+    },
+    {
+      "id": 303,
+      "key": "NGUOI THUE TRO PHAI CO NGHIA VU DANG KY TAM TRU KHONG",
+      "link": "",
+      "question": "Người thuê trọ phải có nghĩa vụ đăng ký tạm trú không?",
+      "value": "Người thuê trọ phải có nghĩa vụ đăng ký tạm trú theo quy định của pháp luật chứ không nhất thiết phải là chủ nhà."
+    },
+    {
+      "id": 304,
+      "key": "HO SO DANG KY TAM TRU GOM CO",
+      "link": "",
+      "question": "Hồ sơ đăng ký tạm trú gồm có?",
+      "value": "Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ, tài liệu chứng minh chỗ ở hợp pháp).    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên.    - Xuất trình CMND hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó thường trú."
+    },
+    {
+      "id": 305,
+      "key": "TAM TRU",
+      "link": "",
+      "question": "Tạm trú tại Việt Nam quá 90 ngày có phải xin cấp lại thị thực?",
+      "value": "(LuatVietnam) Kể từ ngày 15/04/2012, người nhập cảnh Việt Nam bằng Giấy miễn thị thực, có nhu cầu tạm trú tại Việt Nam quá 90 ngày, được cơ quan, tổ chức, cá nhân tại Việt Nam bảo lãnh và có lý do chính đáng không cần phải làm thủ tục xin cấp lại thị thực mà chỉ cần làm hồ sơ xin gia hạn thị thực; thời gian cho mỗi lần gia hạn tối đa là 90 ngày.  Đây là quy định mới được Thủ tướng Chính phủ ban hành trong Quyết định số 10/2012/QĐ-TTg ngày 10/02/2012 sửa đổi, bổ sung một số điều của Quy chế về miễn thị thực cho người Việt Nam định cư ở nước ngoài ban hành kèm theo Quyết định số 135/2007/QĐ-TTg ngày 17/08/2007 của Thủ tướng Chính phủ.     Người có nhu cầu gia hạn tạm trú phải làm thủ tục trước 05 ngày khi hết hạn; hồ sơ đề nghị gia hạn gồm: Hộ chiếu của người xin gia hạn tạm trú và Tờ khai đề nghị cấp, bổ sung, sửa đổi thị thực, gia hạn tạm trú có xác nhận của Công an xã, phường nơi tạm trú.     Cũng theo quy định tại quyết định này, thời gian xem xét, cấp Giấy miễn thị thực cho người Việt Nam định cư ở nước ngoài được giảm xuống còn 05 ngày thay vì 07 ngày như quy định trước đây.     Các sửa đổi, bổ sung này có hiệu lực thi hành kể từ ngày 15/04/2012."
+    },
+    {
+      "id": 306,
+      "key": "DANG KY TAM TRU CHI CAN 3 4 LOAI GIAY TO DUNG HAY SAI",
+      "link": "",
+      "question": "Đăng ký tạm trú chỉ cần 3 - 4 loại giấy tờ đúng hay sai?",
+      "value": "Đăng ký tạm trú chỉ cần 3 - 4 loại giấy tờ  Điều 16 Thông tư 35/2014/TT-BCA quy định rõ, người đến đăng ký tạm trú phải có các giấy tờ sau:    1) Giấy chứng minh nhân dân/căn cước công dân/hộ chiếu hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú;    2) Phiếu báo thay đổi hộ khẩu, nhân khẩu;    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu  3) Bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    Xem thêm: Bản khai nhân khẩu (mẫu HK01): Hướng dẫn chi tiết cách ghi  4) Giấy tờ chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định 31/2014/NĐ-CP.    Trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ chứng minh chỗ ở hợp pháp. Người tạm trú được chủ hộ đồng ý cho nhập vào sổ tạm trú hoặc đồng ý cho đăng ký tạm trú tại nơi thường trú của chủ hộ thì việc đồng ý phải được ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên. Trường hợp người cho thuê, cho mượn, cho ở nhờ đã có ý kiến bằng văn bản đồng ý cho đăng ký tạm trú vào chỗ ở của mình thì không phải ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu.    Khi được giải quyết đăng ký tạm trú, công dân nộp lệ phí và nhận hồ sơ; kiểm tra lại giấy tờ, tài liệu, đối chiếu các thông tin được ghi trong sổ tạm trú, giấy tờ khác và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả)."
+    },
+    {
+      "id": 307,
+      "key": "DANG KY TAM TRU CAN MAY LOAI GIAY TO",
+      "link": "",
+      "question": "Đăng ký tạm trú cần mấy loại giấy tờ?",
+      "value": "Đăng ký tạm trú chỉ cần 3 - 4 loại giấy tờ  Điều 16 Thông tư 35/2014/TT-BCA quy định rõ, người đến đăng ký tạm trú phải có các giấy tờ sau:    1) Giấy chứng minh nhân dân/căn cước công dân/hộ chiếu hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú;    2) Phiếu báo thay đổi hộ khẩu, nhân khẩu;    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu  3) Bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    Xem thêm: Bản khai nhân khẩu (mẫu HK01): Hướng dẫn chi tiết cách ghi  4) Giấy tờ chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định 31/2014/NĐ-CP.    Trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ chứng minh chỗ ở hợp pháp. Người tạm trú được chủ hộ đồng ý cho nhập vào sổ tạm trú hoặc đồng ý cho đăng ký tạm trú tại nơi thường trú của chủ hộ thì việc đồng ý phải được ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên. Trường hợp người cho thuê, cho mượn, cho ở nhờ đã có ý kiến bằng văn bản đồng ý cho đăng ký tạm trú vào chỗ ở của mình thì không phải ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu.    Khi được giải quyết đăng ký tạm trú, công dân nộp lệ phí và nhận hồ sơ; kiểm tra lại giấy tờ, tài liệu, đối chiếu các thông tin được ghi trong sổ tạm trú, giấy tờ khác và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả)."
+    },
+    {
+      "id": 308,
+      "key": "KHONG DANG KY TAM TRU BI PHAT BAO NHIEU",
+      "link": "",
+      "question": "Không đăng ký tạm trú phạt bao nhiêu?",
+      "value": "Vi phạm quy định về đăng ký và quản lý cư trú bị áp dụng mức xử phạt tại Điều 8 Nghị định 167/2013/NĐ-CP như sau:    “1. Phạt tiền từ 100.000 đồng đến 300.000 đồng đối với một trong những hành vi sau đây:    a) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về đăng ký thường trú, đăng ký tạm trú hoặc điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú;    b) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về thông báo lưu trú, khai báo tạm vắng;[…]”"
+    },
+    {
+      "id": 309,
+      "key": "DANG KY TAM TRU CO MUC LE PHI NHU THE NAO",
+      "link": "",
+      "question": "Đăng ký tạm trú có mức lệ phí như thế nào?",
+      "value": "Hiện nay, Bộ Tài chính quy định Hội đồng nhân dân các tỉnh, thành phố trực thuộc trung ương được tự quyết định mức lệ phí đăng ký tạm trú.    Tại Hà Nội, căn cứ Nghị quyết 20/2016/NQ-HĐND của Hội đồng nhân dân Thành phố, mức lệ phí đăng ký tạm trú nhưng không cấp Sổ tạm trú là 15.000 đồng/trường hợp đăng ký ở các quận; nếu cấp Sổ tạm trú, mức lệ phí là 20.000 đồng/trường hợp.    Riêng các huyện, thị xã, mức lệ phí chỉ bằng một nửa lệ phí tại các quận.    Trên đây là hướng dẫn về thủ tục đăng ký tạm trú mới nhất cho người ngoại tỉnh. Quý khách hàng của LuatVietnam có thể tìm hiểu thêm thông tin về vấn đề Không đăng ký tạm trú, chủ trọ hay người thuê trọ bị phạt tại đây."
+    },
+    {
+      "id": 310,
+      "key": "TAI HA NOI",
+      "link": "",
+      "question": "Tại Hà Nội mức lệ phí đăng ký tạm trú nhưng không cấp sổ là bao nhiêu?",
+      "value": "Tại Hà Nội, căn cứ Nghị quyết 20/2016/NQ-HĐND của Hội đồng nhân dân Thành phố, mức lệ phí đăng ký tạm trú nhưng không cấp Sổ tạm trú là 15.000 đồng/trường hợp đăng ký ở các quận;"
+    },
+    {
+      "id": 311,
+      "key": "TAI HA NOI MUC LE PHI DANG KY TAM TRU NEU CAP SO LA",
+      "link": "",
+      "question": "Tại Hà Nội mức lệ phí đăng ký tạm trú nếu cấp sổ là?",
+      "value": "Tại Hà Nội, căn cứ Nghị quyết 20/2016/NQ-HĐND của Hội đồng nhân dân Thành phố, mức lệ phí đăng ký tạm trú nhưng không cấp Sổ tạm trú là 15.000 đồng/trường hợp đăng ký ở các quận; nếu cấp Sổ tạm trú, mức lệ phí là 20.000 đồng/trường hợp."
+    },
+    {
+      "id": 312,
+      "key": "SO TAM TRU CO THOI HAN TOI DA LA BAO NHIEU THANG",
+      "link": "",
+      "question": "Sổ tạm trú có thời hạn tối đa là bao nhiêu tháng?",
+      "value": "Sổ tạm trú có thời hạn tối đa là 24 tháng. Trong 30 ngày, trước ngày hết hạn, công dân phải đến Công an xã, phường, thị trấn để làm thủ tục gia hạn Sổ tạm trú."
+    },
+    {
+      "id": 313,
+      "key": "PHAT BAO NHIEU NEU KHONG DANG KY TAM TRU",
+      "link": "",
+      "question": "Phạt bao nhiêu nếu không đăng ký tạm trú?",
+      "value": "Vi phạm quy định về đăng ký và quản lý cư trú bị áp dụng mức xử phạt tại Điều 8 Nghị định 167/2013/NĐ-CP như sau:    “1. Phạt tiền từ 100.000 đồng đến 300.000 đồng đối với một trong những hành vi sau đây:    a) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về đăng ký thường trú, đăng ký tạm trú hoặc điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú;    b) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về thông báo lưu trú, khai báo tạm vắng;[…]”"
+    },
+    {
+      "id": 314,
+      "key": "DANG KY TAM TRU TAI CONG AN XA PHUONG TRONG BAO NHIEU NGAY",
+      "link": "",
+      "question": "Đăng ký tạm trú tại công an xã, phường trong bao nhiêu ngày?",
+      "value": "Đăng ký tạm trú tại công an xã, phường  Trưởng Công an xã, phường, thị trấn trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.    Trường hợp hồ sơ không đủ điều kiện thì công dân được nhận lại hồ sơ kèm theo văn bản trả lời, trong đó nêu rõ lý do không tiếp nhận."
+    },
+    {
+      "id": 315,
+      "key": "SINH VIEN THI DANG KY TAM TRU NHU THE NAO",
+      "link": "",
+      "question": "Sinh viên đăng ký tạm trú như thế nào?",
+      "value": "Phải đăng ký tạm trú trong thời hạn 30 ngày từ khi đến  Theo quy định tại khoản 2 Điều 30 Luật Cư trú, người đang sinh sống, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn 30 ngày, kể từ ngày đến phải đăng ký tạm trú tại Công an xã, phường, thị trấn.  Trường hợp người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập từ 06 tháng trở lên tại địa phương đã đăng ký tạm trú thì cơ quan đã cấp sổ tạm trú phải xóa tên người đó trong sổ đăng ký tạm trú.    Xem thêm: Thủ tục đăng ký tạm trú: 8 điểm cần lưu ý năm 2019  Đăng ký tạm trú tại công an xã, phường  Trưởng Công an xã, phường, thị trấn trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.    Trường hợp hồ sơ không đủ điều kiện thì công dân được nhận lại hồ sơ kèm theo văn bản trả lời, trong đó nêu rõ lý do không tiếp nhận.  Đăng ký tạm trú chỉ cần 3 - 4 loại giấy tờ  Điều 16 Thông tư 35/2014/TT-BCA quy định rõ, người đến đăng ký tạm trú phải có các giấy tờ sau:    1) Giấy chứng minh nhân dân/căn cước công dân/hộ chiếu hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú;    2) Phiếu báo thay đổi hộ khẩu, nhân khẩu;    Xem thêm: Hướng dẫn cách ghi phiếu báo thay đổi nhân hộ khẩu  3) Bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    Xem thêm: Bản khai nhân khẩu (mẫu HK01): Hướng dẫn chi tiết cách ghi  4) Giấy tờ chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định 31/2014/NĐ-CP.    Trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ chứng minh chỗ ở hợp pháp. Người tạm trú được chủ hộ đồng ý cho nhập vào sổ tạm trú hoặc đồng ý cho đăng ký tạm trú tại nơi thường trú của chủ hộ thì việc đồng ý phải được ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.    Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên. Trường hợp người cho thuê, cho mượn, cho ở nhờ đã có ý kiến bằng văn bản đồng ý cho đăng ký tạm trú vào chỗ ở của mình thì không phải ghi vào Phiếu báo thay đổi hộ khẩu, nhân khẩu.    Khi được giải quyết đăng ký tạm trú, công dân nộp lệ phí và nhận hồ sơ; kiểm tra lại giấy tờ, tài liệu, đối chiếu các thông tin được ghi trong sổ tạm trú, giấy tờ khác và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả).    Không đăng ký tạm trú phạt bao nhiêu?  Vi phạm quy định về đăng ký và quản lý cư trú bị áp dụng mức xử phạt tại Điều 8 Nghị định 167/2013/NĐ-CP như sau:    “1. Phạt tiền từ 100.000 đồng đến 300.000 đồng đối với một trong những hành vi sau đây:    a) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về đăng ký thường trú, đăng ký tạm trú hoặc điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú;    b) Cá nhân, chủ hộ gia đình không thực hiện đúng quy định về thông báo lưu trú, khai báo tạm vắng;[…]”"
+    },
+    {
+      "id": 316,
+      "key": "HO SO CAN MANG THEO KHI DANG KY TAM TRU",
+      "link": "",
+      "question": "Hồ sơ cần mang theo khi đi đăng ký tạm trú?",
+      "value": "- Phiếu báo thay đổi hộ khẩu, nhân khẩu;    - Bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);    - Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định số 31/2014/NĐ-CP (trừ trường hợp được chủ hộ có sổ"
+    },
+    {
+      "id": 317,
+      "key": "DANG KY TAM TRU O NOI KET HON CO DUOC KHONG",
+      "link": "",
+      "question": "Đăng ký kết hôn ở nơi tạm trú có được không?",
+      "value": "Căn cứ Điều 17 Luật Hộ tịch 2014 quy định như sau:         “Điều 17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn         1. Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam, nữ thực hiện đăng ký kết hôn.         2. Giấy chứng nhận kết hôn phải có các thông tin sau đây:         a) Họ, chữ đệm và tên; ngày, tháng, năm sinh; dân tộc; quốc tịch; nơi cư trú; thông tin về giấy tờ chứng minh nhân thân của hai bên nam, nữ;         b) Ngày, tháng, năm đăng ký kết hôn;         c) Chữ ký hoặc điểm chỉ của hai bên nam, nữ và xác nhận của cơ quan đăng ký hộ tịch.”         Và Điều 1 Luật Cư trú 2006 sửa đổi, bổ sung 2013 quy định như sau: “...Cư trú là việc công dân sinh sống tại một địa điểm thuộc xã, phường, thị trấn dưới hình thức thường trú hoặc tạm trú.”         Vậy, theo như quy định trên thì 2 bạn có thể được phép đăng kí kết hôn tại nơi làm việc thành phố Hồ Chí Minh.         Tuy nhiên, để thực hiện việc đăng kí kết hôn ở thành phố Hồ Chí Minh thì 2 bạn phải làm thủ tục đăng kí tạm trú trên địa bàn 2 bạn đang sinh sống.         Thủ tục đăng kí kết hôn được thực hiện theo quy định tại Điều 18 Luật Hộ tịch 2014 như sau:         “Điều 18. Thủ tục đăng ký kết hôn         1. Hai bên nam, nữ nộp tờ khai đăng ký kết hôn theo mẫu quy định cho cơ quan đăng ký hộ tịch và cùng có mặt khi đăng ký kết hôn.         2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy đủ điều kiện kết hôn theo quy định của Luật hôn nhân và gia đình, công chức tư pháp - hộ tịch ghi việc kết hôn vào Sổ hộ tịch, cùng hai bên nam, nữ ký tên vào Sổ hộ tịch. Hai bên nam, nữ cùng ký vào Giấy chứng nhận kết hôn; công chức tư pháp - hộ tịch báo cáo Chủ tịch Ủy ban nhân dân cấp xã tổ chức trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.         Trường hợp cần xác minh điều kiện kết hôn của hai bên nam, nữ thì thời hạn giải quyết không quá 05 ngày làm việc.”"
+    },
+    {
+      "id": 318,
+      "key": "CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG",
+      "link": "",
+      "question": "Có thể xin giấy xác nhận độc thân ở nơi tạm trú không?",
+      "value": "I Cơ sở pháp lý:     Luật cư trú 2006 sửa đổi bổ sung năm 2013    Nghị định 158/2005/NĐ-CP ngày 27/12/2005 của Chính phủ về đăng ký và quản lý hộ tịch     Thông tư 01/2008/TT-BTP của Bộ Tư pháp ngày 02/6/2008 hướng dẫn thực hiện một số quy định của Nghị định 158/2005/NĐ-CP      II Nội dung phân tích:     Theo Điều 30 Luật cư trú 2006 sửa đổi bổ sung năm 2013 quy định như sau:    “1. Đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp sổ tạm trú cho họ.  2. Người đang sinh sống, làm việc, lao động, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn ba mươi ngày, kể từ ngày đến phải đăng ký tạm trú tại Công an xã, phường, thị trấn.  3. Người đến đăng ký tạm trú phải xuất trình giấy chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú; giấy tờ chứng minh quyền sở hữu hoặc sử dụng nhà ở đó; nộp phiếu báo thay đổi hộ khẩu, nhân khẩu, bản khai nhân khẩu; trường hợp chỗ ở hợp pháp là nhà do thuê, mượn hoặc ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.  4. Trưởng Công an xã, phường, thị trấn trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định tại khoản 3 Điều này phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.  Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là 24 tháng . Trong thời hạn ba mươi ngày trước ngày hết thời hạn tạm trú, công dân đến cơ quan Công an nơi cấp sổ tạm trú để làm thủ tục gia hạn.  Bạn nói bạn đã được cấp sổ KT3 như vậy thì bạn đã được cấp sổ tạm trú dài hạn vì    KT3: Sổ tạm trú dài hạn ở một tỉnh, thành phố trực thuộc Trung ương khác với nơi đăng ký thường trú    Trong trường hợp của bạn là: bạn Công dân có hộ khẩu thường trú ở Hà Nội nhưng hiện sinh sống ,làm việc ở TP.HCM, khi đăng ký tạm trú dài hạn ở TP.HCM thì giấy đăng ký này chính là KT3.    2,Về việc xác nhận tình trạng độc thân (hay nói đúng hơn là xác nhận tình trạng hôn nhân), căn cứ quy định tại Điều 66 của Nghị định 158/2005/NĐ-CP ngày 27/12/2005 của Chính phủ về đăng ký và quản lý hộ tịch về thẩm quyền cấp Giấy xác nhận tình trạng hôn nhân là “Ủy ban nhân dân cấp xã, nơi cư trú của người có yêu cầu xác nhận tình trạng hôn nhân thực hiện việc cấp Giấy xác nhận tình trạng hôn nhân cho người đó”.    Về việc xác nhận tình trạng hôn nhân đối với những người đã qua nhiều nơi cư trú khác nhau theo quy định tại điểm d khoản 2, Mục 2 của Thông tư 01/2008/TT-BTP của Bộ Tư pháp ngày 02/6/2008 hướng dẫn thực hiện một số quy định của Nghị định 158/2005/NĐ-CP ngày 27/12/2005 của Chính phủ về đăng ký và quản lý hộ tịch “Đối với những người đã qua nhiều nơi cư trú khác nhau (kể cả thời gian cư trú ở nước ngoài), mà Ủy ban nhân dân cấp xã, nơi xác nhận tình trạng hôn nhân không rõ về tình trạng hôn nhân của họ ở những nơi đó, thì yêu cầu đương sự viết bản cam đoan về tình trạng hôn nhân của mình trong thời gian trước khi về cư trú tại địa phương và chịu trách nhiệm về việc cam đoan”.    Mặt khác, theo quy định tại Điều 12 Luật cư trú năm 2006 sửa đổi bổ sung năm 2013 thì:    “Điều 12. Nơi cư trú của công dân    1.Nơi cư trú của công dân là chỗ ở hợp pháp mà người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc tạm trú.    Chỗ ở hợp pháp là nhà ở, phương tiện hoặc nhà khác mà công dân sử dụng để cư trú. Chỗ ở hợp pháp có thể thuộc quyền sở hữu của công dân hoặc được cơ quan, tổ chức, cá nhân cho thuê, cho mượn, cho ở nhờ theo quy định của pháp luật.    Nơi thường trú là nơi công dân sinh sống thường xuyên, ổn định, không có thời hạn tại một chỗ ở nhất định và đã đăng ký thường trú.    Nơi tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú.    Trường hợp không xác định được nơi cư trú của công dân theo quy định tại khoản 1 Điều này thì nơi cư trú của công dân là nơi người đó đang sinh sống”.    Như vậy, theo quy định trên thì bạn có thể xin giấy xác nhận tình trạng hôn nhân tại nơi thường trú hoặc nơi tạm trú (nơi bạn tạm trú phải là nơi bạn đã đăng ký tạm trú với cơ quan có thẩm quyền – được cấp sổ tạm trú). Trong trường hợp có cả nơi thường trú và nơi tạm trú thì ưu tiên xin xác nhận ở nơi thường trú."
+    },
+    {
+      "id": 319,
+      "key": "DANG KY BIEN SO XE THEO NOI TAM TRU CO DUOC KHONG",
+      "link": "",
+      "question": "Đăng ký biển số xe theo nơi tạm trú có được không?",
+      "value": "Theo khoản 1 Điều 9 Thông tư 15/2014/TT-BCA quy định về chủ xe là người Việt Nam, xuất trình một trong những giấy tờ sau:    “a) Chứng minh nhân dân. Trường hợp chưa được cấp Chứng minh nhân dân hoặc nơi đăng ký thường trú ghi trong Chứng minh nhân dân không phù hợp với nơi đăng ký thường trú ghi trong giấy khai đăng ký xe thì xuất trình Sổ hộ khẩu.    b) Giấy giới thiệu của thủ trưởng cơ quan, đơn vị công tác, kèm theo Giấy chứng minh Công an nhân dân; Giấy chứng minh Quân đội nhân dân (theo quy định của Bộ Quốc phòng).    Trường hợp không có Giấy chứng minh Công an nhân dân, Giấy chứng minh Quân đội nhân dân thì phải có giấy xác nhận của thủ trưởng cơ quan, đơn vị công tác.    c) Thẻ học viên, sinh viên học theo hệ tập trung từ 2 năm trở lên của các trường trung cấp, cao đẳng, đại học, học viện; giấy giới thiệu của nhà trường”.  Như vậy, theo quy định này, việc đăng ký biển số xe máy sẽ được xác định trong các trường hợp:    + Theo địa chỉ được ghi trong chứng minh nhân dân. Với trường hợp chưa được cấp chứng minh nhân dân hoặc nơi đăng ký thường trú ghi trong Chứng minh nhân dân không phù hợp với nơi đăng ký thương trú trong giấu khai đăng ký xe thì xuất trình Sổ hộ khẩu- tức theo địa chỉ được ghi trong Sổ hộ khẩu.    + Giấy giới thiệu của thủ trưởng cơ quan, đơn vị công tác kèm theo Giấy chứng minh Công an nhân dân; Giấy chứng minh Quân đội nhân dân (theo quy định của Bộ Quốc phòng). Trường hợp không có Giấy chứng minh Công an nhân dân, Giấy chứng minh Quân đội nhân dân thì phải có giấy xác nhận của thủ trưởng cơ quan, đơn vị công tác.    + Thẻ học viên, sinh viên học theo hệ tập trung từ 2 năm trở lên của các trường trung cấp, cao đẳng, đại học, học viện; giấy giới thiệu của nhà trường."
+    },
+    {
+      "id": 320,
+      "key": "CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME",
+      "link": "",
+      "question": "Có được làm giấy khai sinh cho con ở nơi tạm trú của bố mẹ?",
+      "value": "Điều 13 Luật Hộ tịch 2014 xác định thẩm quyền đăng ký khai sinh cho con là Ủy ban nhân dân (UBND) cấp xã, phường, thị trấn - nơi cư trú của người cha hoặc người mẹ.    Điều 12 Luật Cư trú 2006, sửa đổi, bổ sung 2013 giải thích rõ, nơi cư trú của công dân là chỗ ở hợp pháp mà người đó thường xuyên sinh sống. Chỗ ở hợp pháp của một người có thể là nhà ở, phương tiện hoặc địa điểm mà người này được phép sử dụng để cư trú thông qua việc thuê, mượn, ở nhờ...    Trong đó, nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Thường trú là nơi công dân sinh sống thường xuyên, ổn định, không có thời hạn tại một chỗ và đã đăng ký thường trú.    Tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú. Trường hợp không xác định được nơi cư trú của công dân theo quy định như trên thì nơi cư trú của công dân là nơi người đó đang sinh sống."
     }
   ]
 }

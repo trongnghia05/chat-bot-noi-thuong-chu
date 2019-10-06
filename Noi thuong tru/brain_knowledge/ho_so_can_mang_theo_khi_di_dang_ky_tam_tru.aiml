@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>HO SO CAN MANG THEO KHI DANG KY TAM TRU</pattern>
+   <template>HO SO CAN MANG THEO KHI DANG KY TAM TRU</template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO DANG KY TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO DANG KY TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAN MANG THEO DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAN MANG THEO DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>HO SO CAN MANG THEO KHI DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+</aiml>

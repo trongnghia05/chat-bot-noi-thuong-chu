@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</pattern>
+   <template>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY * TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY * TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY * TAM TRU MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY * TAM TRU MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC dANG KY TAM TRU * MOI NHAT</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC dANG KY TAM TRU * MOI NHAT *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY * TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC * THU TUC dANG KY TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC * THU TUC dANG KY TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO MAY BUOC THU TUC dANG KY * TAM TRU</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO MAY BUOC THU TUC dANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>CO MAY BUOC TRONG THU TUC DANG KY TAM TRU MOI NHAT</srai>
+   </template>
+</category>
+
+</aiml>

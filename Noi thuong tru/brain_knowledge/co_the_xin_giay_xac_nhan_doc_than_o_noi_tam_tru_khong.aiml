@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</pattern>
+   <template>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</template>
+</category>
+
+<category>
+   <pattern>GIAY XAC NHAN DOC THAN NOI TAM TRU</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY XAC NHAN DOC THAN NOI TAM TRU *</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY XAC NHAN DOC THAN NOI TAM TRU</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY XAC NHAN DOC THAN NOI TAM TRU *</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY XAC NHAN DOC THAN * NOI TAM TRU</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY XAC NHAN DOC THAN * NOI TAM TRU *</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY XAC NHAN DOC THAN * NOI TAM TRU</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY XAC NHAN DOC THAN * NOI TAM TRU *</pattern>
+   <template>
+      <srai>CO THE XIN GIAY XAC NHAN DOC THAN O NOI TAM TRU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

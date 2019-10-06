@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</pattern>
+   <template>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO * TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO * TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO * TAM TRU NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO * TAM TRU NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHAI BAO TAM TRU * NGUOI NUOC NGOAI</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHAI BAO TAM TRU * NGUOI NUOC NGOAI *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO * TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO * TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC * KHAI BAO TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC * KHAI BAO TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 HINH THUC KHAI BAO * TAM TRU</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 HINH THUC KHAI BAO * TAM TRU *</pattern>
+   <template>
+      <srai>2 HINH THUC KHAI BAO TAM TRU CHO NGUOI NUOC NGOAI</srai>
+   </template>
+</category>
+
+</aiml>

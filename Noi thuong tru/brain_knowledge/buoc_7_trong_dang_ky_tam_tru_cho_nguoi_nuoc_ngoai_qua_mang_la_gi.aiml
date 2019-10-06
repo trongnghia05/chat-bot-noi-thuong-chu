@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</pattern>
+   <template>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</template>
+</category>
+
+<category>
+   <pattern>BUOC 7 DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 DANG KY CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 DANG KY CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 DANG KY CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 DANG KY CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * DANG KY * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * DANG KY * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 TAM TRU CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 TAM TRU CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 TAM TRU CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 TAM TRU CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUOC 7 * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUOC 7 * TAM TRU * CHO NGUOI NUOC NGOAI QUA MANG *</pattern>
+   <template>
+      <srai>BUOC 7 TRONG DANG KY TAM TRU CHO NGUOI NUOC NGOAI QUA MANG LA GI</srai>
+   </template>
+</category>
+
+</aiml>

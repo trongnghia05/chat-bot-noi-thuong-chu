@@ -6,63 +6,63 @@ meta name="language" content="vi"/>
 
 
 <category>
-   <pattern>TAM TRU LA GI</pattern>
-   <template>TAM TRU LA GI</template>
+   <pattern>KEY TAM TRU LA GI</pattern>
+   <template>KEY TAM TRU LA GI</template>
 </category>
 
 <category>
    <pattern>TAM TRU LA GI</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>* TAM TRU LA GI *</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>* TAM TRU LA GI</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>TAM TRU LA GI *</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>TAM TRU * LA GI</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>* TAM TRU * LA GI *</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>* TAM TRU * LA GI</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 
 <category>
    <pattern>TAM TRU * LA GI *</pattern>
    <template>
-      <srai>TAM TRU LA GI</srai>
+      <srai>KEY TAM TRU LA GI</srai>
    </template>
 </category>
 

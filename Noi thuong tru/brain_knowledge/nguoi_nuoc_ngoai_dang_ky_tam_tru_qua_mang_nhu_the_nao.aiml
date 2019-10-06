@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</pattern>
+   <template>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * TAM TRU QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * TAM TRU QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY TAM TRU * QUA MANG</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY TAM TRU * QUA MANG *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>NGUOI NUOC NGOAI DANG KY TAM TRU QUA MANG NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

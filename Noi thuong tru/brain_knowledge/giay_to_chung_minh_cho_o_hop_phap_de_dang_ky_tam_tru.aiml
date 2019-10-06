@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</pattern>
+   <template>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY TO CHUNG MINH CHO O HOP PHAP * TAM TRU</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY TO CHUNG MINH CHO O HOP PHAP * TAM TRU *</pattern>
+   <template>
+      <srai>GIAY TO CHUNG MINH CHO O HOP PHAP DE DANG KY TAM TRU</srai>
+   </template>
+</category>
+
+</aiml>

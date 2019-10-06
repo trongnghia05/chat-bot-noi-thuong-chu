@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</pattern>
+   <template>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * TAM TRU BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * TAM TRU BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH TAM TRU * BO ME</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH TAM TRU * BO ME *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON * TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON * TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH * CHO CON TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH * CHO CON TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAY KHAI SINH CHO CON * TAM TRU</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAY KHAI SINH CHO CON * TAM TRU *</pattern>
+   <template>
+      <srai>CO DUOC LAM GIAY KHAI SINH CHO CON O NOI TAM TRU CUA BO ME</srai>
+   </template>
+</category>
+
+</aiml>

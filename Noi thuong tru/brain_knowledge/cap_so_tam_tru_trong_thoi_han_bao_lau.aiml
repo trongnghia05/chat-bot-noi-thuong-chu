@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CAP SP TAM TRU TRONG THOI HAN BAO LAU</pattern>
+   <template>CAP SP TAM TRU TRONG THOI HAN BAO LAU</template>
+</category>
+
+<category>
+   <pattern>CAP SO TAM TRU THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO TAM TRU THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO TAM TRU THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO TAM TRU THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO * TAM TRU * THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO * TAM TRU * THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO * TAM TRU * THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO * TAM TRU * THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO * TAM TRU THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO * TAM TRU THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO * TAM TRU THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO * TAM TRU THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO TAM TRU * THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO TAM TRU * THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP SO TAM TRU * THOI HAN BAO LAU</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP SO TAM TRU * THOI HAN BAO LAU *</pattern>
+   <template>
+      <srai>CAP SP TAM TRU TRONG THOI HAN BAO LAU</srai>
+   </template>
+</category>
+
+</aiml>

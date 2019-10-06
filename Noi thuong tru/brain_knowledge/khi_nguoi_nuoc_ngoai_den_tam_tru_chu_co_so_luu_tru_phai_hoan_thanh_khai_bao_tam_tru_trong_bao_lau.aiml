@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</pattern>
+   <template>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * TRONG BAO LAU *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU * CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH * KHAI BAO *</pattern>
+   <template>
+      <srai>KHI NGUOI NUOC NGOAI DEN TAM TRU CHU CO SO LUU TRU PHAI HOAN THANH KHAI BAO TAM TRU TRONG BAO LAU</srai>
+   </template>
+</category>
+
+</aiml>

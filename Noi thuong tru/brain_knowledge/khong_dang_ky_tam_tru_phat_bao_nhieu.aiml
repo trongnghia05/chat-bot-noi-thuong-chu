@@ -6,119 +6,119 @@ meta name="language" content="vi"/>
 
 
 <category>
-   <pattern>KHONG DANG KY TAM TRU PHAT BAO NHIEU</pattern>
-   <template>KHONG DANG KY TAM TRU PHAT BAO NHIEU</template>
+   <pattern>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</pattern>
+   <template>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY TAM TRU PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY TAM TRU PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY TAM TRU PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY TAM TRU PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY * TAM TRU * PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY * TAM TRU * PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY * TAM TRU * PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY * TAM TRU * PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY * TAM TRU PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY * TAM TRU PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY * TAM TRU PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY * TAM TRU PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY TAM TRU * PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY TAM TRU * PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>* KHONG DANG KY TAM TRU * PHAT BAO NHIEU</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 
 <category>
    <pattern>KHONG DANG KY TAM TRU * PHAT BAO NHIEU *</pattern>
    <template>
-      <srai>KHONG DANG KY TAM TRU PHAT BAO NHIEU</srai>
+      <srai>KHONG DANG KY TAM TRU BI PHAT BAO NHIEU</srai>
    </template>
 </category>
 

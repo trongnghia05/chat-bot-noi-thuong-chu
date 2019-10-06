@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</pattern>
+   <template>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY * TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY * TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY * TAM TRU TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY * TAM TRU TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC DANG KY TAM TRU * TRONG NAM 2019</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC DANG KY TAM TRU * TRONG NAM 2019 *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN * THU TUC DANG KY TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY * TAM TRU *</pattern>
+   <template>
+      <srai>8 DIEM CAN LUU Y KHI THUC HIEN THU TUC DANG KY TAM TRU TRONG NAM 2019</srai>
+   </template>
+</category>
+
+</aiml>

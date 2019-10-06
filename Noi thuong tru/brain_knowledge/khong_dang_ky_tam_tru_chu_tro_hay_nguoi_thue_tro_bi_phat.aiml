@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</pattern>
+   <template>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * BI PHAT</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * BI PHAT *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU * CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY * TAM TRU CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG DANG KY TAM TRU * CHU TRO HAY NGUOI THUE *</pattern>
+   <template>
+      <srai>KHONG DANG KY TAM TRU CHU TRO HAY NGUOI THUE CHO CO BI PHAT</srai>
+   </template>
+</category>
+
+</aiml>
